@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This project has been moved to [IndustraLABS](https://gitlab.com/vaizard/labs)**
+>
+> Development continues in the new location and this repository has been **archived** (read-only).
+
+---
+
 # Air Filter
 
 Air Filter implementation in the Hackerspace
